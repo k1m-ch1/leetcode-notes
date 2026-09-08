@@ -28,4 +28,4 @@ First, check constraints:
 
 So the coins array is small. I think we can use recursion + memoization with this.
 
-
+# Improving elegance and optimization
