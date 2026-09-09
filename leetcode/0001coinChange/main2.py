@@ -30,9 +30,3 @@ def coinChange(self, coins: List[int], amount: int) -> int:
             dp[amount] = min(temp_number_of_coins)
             return dp[amount]
     return coinChangeTemp(amount)
-
-
-
-
-
-
